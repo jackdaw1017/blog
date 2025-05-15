@@ -14,7 +14,7 @@ const users = [
   {
     id: 0, // default author
     username: "Dodoria",
-    company: "weniv",
+    company: "Dodoria",
     position: "CEO",
     img: "img/user/profile-dodoria.png",
   },
